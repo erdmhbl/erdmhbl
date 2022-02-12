@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hi there 👋](https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg)
 Hello! Welcome to my GitHub page..
 
 Connect with me on these platforms..
