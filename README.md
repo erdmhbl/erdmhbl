@@ -1,4 +1,4 @@
-![Hi there 👋](https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg)
+![Hi there 👋](https://www.filepicker.io/api/file/Crrtt0LwQ0Cuj5vKbntc)
 Hello! Welcome to my GitHub page..
 
 Connect with me on these platforms..
